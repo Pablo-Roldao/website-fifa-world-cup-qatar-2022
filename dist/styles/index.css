@@ -1,0 +1,20 @@
+#home-image {
+    width: 100%;
+}
+
+#about-fifa-world-cup {
+    background-color: #7f1734;
+}
+
+#documents-list {
+    background-color: #7f1734;
+}
+
+#partners-sponsors-supporters {
+    width: 60%;
+}
+
+#partner, #sponsor, #supporter {
+    width: 10%;
+    height: 10%;
+}
